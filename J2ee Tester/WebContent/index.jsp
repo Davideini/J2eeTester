@@ -20,6 +20,7 @@ html,body,#map-canvas {
 
 </head>
 <body>
+<!--  -->
 
 	<div id="map-canvas"></div>
 
