@@ -17,7 +17,7 @@ html,body,#map-canvas {
 <script type="text/javascript"
 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkqG0oDMMhvFES4JNLh2GoU2H24dVQ7Hs"></script>
 
-
+ 
 </head>
 <body>
 <!--  -->
